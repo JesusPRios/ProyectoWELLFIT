@@ -1,0 +1,169 @@
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll.config
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CopyComplete
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CopyComplete
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CopyComplete
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CopyComplete
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaAprendiz.dll.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Optimization.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Mvc.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.Razor.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CopyComplete
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaTablas\bin\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaTablas\obj\Debug\CapaTablas.pdb

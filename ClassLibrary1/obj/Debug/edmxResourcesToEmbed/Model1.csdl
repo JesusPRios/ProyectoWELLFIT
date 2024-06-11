@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WELLFITModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Aprendiz">
+    <Key>
+      <PropertyRef Name="idAprendiz" />
+    </Key>
+    <Property Name="idAprendiz" Type="Int32" Nullable="false" />
+    <Property Name="numeroFicha" Type="Int32" />
+    <Property Name="NombreAprendiz" Type="String" MaxLength="350" FixedLength="false" Unicode="false" />
+    <Property Name="tipoDocumento" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="EstadoAprendiz" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Huella" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="UsuarioAprendiz" Type="String" MaxLength="450" FixedLength="false" Unicode="false" />
+    <Property Name="ContraseñaAprediz" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Ficha" Relationship="Self.FK__Aprendiz__numero__5070F446" FromRole="Aprendiz" ToRole="Ficha" />
+    <NavigationProperty Name="Ingreso" Relationship="Self.FK__Ingreso__idApren__7F2BE32F" FromRole="Aprendiz" ToRole="Ingreso" />
+  </EntityType>
+  <EntityType Name="Ejercicio">
+    <Key>
+      <PropertyRef Name="idEjercicio" />
+    </Key>
+    <Property Name="idEjercicio" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="450" FixedLength="false" Unicode="false" />
+    <Property Name="Duracion" Type="Int32" />
+    <Property Name="Dificultad" Type="String" MaxLength="180" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Ficha">
+    <Key>
+      <PropertyRef Name="numeroFicha" />
+    </Key>
+    <Property Name="numeroFicha" Type="Int32" Nullable="false" />
+    <Property Name="codigoPrograma" Type="Int32" />
+    <Property Name="fechaInicio" Type="DateTime" Precision="3" />
+    <Property Name="fechaFin" Type="DateTime" Precision="3" />
+    <Property Name="EstadoFicha" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Aprendiz" Relationship="Self.FK__Aprendiz__numero__5070F446" FromRole="Ficha" ToRole="Aprendiz" />
+    <NavigationProperty Name="ProgramaFormacion" Relationship="Self.FK__Ficha__codigoPro__267ABA7A" FromRole="Ficha" ToRole="ProgramaFormacion" />
+  </EntityType>
+  <EntityType Name="Ingreso">
+    <Key>
+      <PropertyRef Name="numeroIngreso" />
+    </Key>
+    <Property Name="numeroIngreso" Type="Int32" Nullable="false" />
+    <Property Name="idInstructor" Type="Int32" />
+    <Property Name="idAprendiz" Type="Int32" />
+    <Property Name="fechaIngreso" Type="DateTime" Precision="0" />
+    <Property Name="horaIngreso" Type="Time" Precision="7" />
+    <Property Name="fechaSalida" Type="DateTime" Precision="0" />
+    <Property Name="horaSalida" Type="Time" Precision="7" />
+    <NavigationProperty Name="Aprendiz" Relationship="Self.FK__Ingreso__idApren__7F2BE32F" FromRole="Ingreso" ToRole="Aprendiz" />
+    <NavigationProperty Name="Instructor" Relationship="Self.FK__Ingreso__idInstr__7E37BEF6" FromRole="Ingreso" ToRole="Instructor" />
+  </EntityType>
+  <EntityType Name="Instructor">
+    <Key>
+      <PropertyRef Name="idInstructor" />
+    </Key>
+    <Property Name="idInstructor" Type="Int32" Nullable="false" />
+    <Property Name="Correo" Type="String" MaxLength="400" FixedLength="false" Unicode="false" />
+    <Property Name="NombreInstructor" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="ContraseñaInstructor" Type="String" MaxLength="350" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Ingreso" Relationship="Self.FK__Ingreso__idInstr__7E37BEF6" FromRole="Instructor" ToRole="Ingreso" />
+    <NavigationProperty Name="Maquina" Relationship="Self.FK__Maquina__idInstr__02084FDA" FromRole="Instructor" ToRole="Maquina" />
+    <NavigationProperty Name="Publicacion" Relationship="Self.FK__Publicaci__idIns__04E4BC85" FromRole="Instructor" ToRole="Publicacion" />
+  </EntityType>
+  <EntityType Name="Maquina">
+    <Key>
+      <PropertyRef Name="numeroMaquina" />
+    </Key>
+    <Property Name="numeroMaquina" Type="Int32" Nullable="false" />
+    <Property Name="idInstructor" Type="Int32" />
+    <Property Name="NombreMaquina" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="EstadoMaquina" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Instructor" Relationship="Self.FK__Maquina__idInstr__02084FDA" FromRole="Maquina" ToRole="Instructor" />
+  </EntityType>
+  <EntityType Name="ProgramaFormacion">
+    <Key>
+      <PropertyRef Name="codigoPrograma" />
+    </Key>
+    <Property Name="codigoPrograma" Type="Int32" Nullable="false" />
+    <Property Name="nombrePrograma" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="versionPrograma" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="tipoPrograma" Type="String" MaxLength="400" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Ficha" Relationship="Self.FK__Ficha__codigoPro__267ABA7A" FromRole="ProgramaFormacion" ToRole="Ficha" />
+  </EntityType>
+  <EntityType Name="Publicacion">
+    <Key>
+      <PropertyRef Name="idPublicacion" />
+    </Key>
+    <Property Name="idPublicacion" Type="Int32" Nullable="false" />
+    <Property Name="idInstructor" Type="Int32" />
+    <Property Name="Titulo" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Tipo" Type="String" MaxLength="450" FixedLength="false" Unicode="false" />
+    <Property Name="fechaPublicacion" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Instructor" Relationship="Self.FK__Publicaci__idIns__04E4BC85" FromRole="Publicacion" ToRole="Instructor" />
+    <NavigationProperty Name="Rutina" Relationship="Self.FK__Rutina__idPublic__07C12930" FromRole="Publicacion" ToRole="Rutina" />
+  </EntityType>
+  <EntityType Name="Rutina">
+    <Key>
+      <PropertyRef Name="idRutina" />
+    </Key>
+    <Property Name="idRutina" Type="Int32" Nullable="false" />
+    <Property Name="idPublicacion" Type="Int32" />
+    <Property Name="Descripcion" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="fechaCreacion" Type="DateTime" Precision="0" />
+    <Property Name="nombreRutina" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Publicacion" Relationship="Self.FK__Rutina__idPublic__07C12930" FromRole="Rutina" ToRole="Publicacion" />
+  </EntityType>
+  <Association Name="FK__Aprendiz__numero__5070F446">
+    <End Role="Ficha" Type="Self.Ficha" Multiplicity="0..1" />
+    <End Role="Aprendiz" Type="Self.Aprendiz" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ficha">
+        <PropertyRef Name="numeroFicha" />
+      </Principal>
+      <Dependent Role="Aprendiz">
+        <PropertyRef Name="numeroFicha" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ingreso__idApren__7F2BE32F">
+    <End Role="Aprendiz" Type="Self.Aprendiz" Multiplicity="0..1" />
+    <End Role="Ingreso" Type="Self.Ingreso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Aprendiz">
+        <PropertyRef Name="idAprendiz" />
+      </Principal>
+      <Dependent Role="Ingreso">
+        <PropertyRef Name="idAprendiz" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ficha__codigoPro__267ABA7A">
+    <End Role="ProgramaFormacion" Type="Self.ProgramaFormacion" Multiplicity="0..1" />
+    <End Role="Ficha" Type="Self.Ficha" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProgramaFormacion">
+        <PropertyRef Name="codigoPrograma" />
+      </Principal>
+      <Dependent Role="Ficha">
+        <PropertyRef Name="codigoPrograma" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ingreso__idInstr__7E37BEF6">
+    <End Role="Instructor" Type="Self.Instructor" Multiplicity="0..1" />
+    <End Role="Ingreso" Type="Self.Ingreso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Instructor">
+        <PropertyRef Name="idInstructor" />
+      </Principal>
+      <Dependent Role="Ingreso">
+        <PropertyRef Name="idInstructor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Maquina__idInstr__02084FDA">
+    <End Role="Instructor" Type="Self.Instructor" Multiplicity="0..1" />
+    <End Role="Maquina" Type="Self.Maquina" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Instructor">
+        <PropertyRef Name="idInstructor" />
+      </Principal>
+      <Dependent Role="Maquina">
+        <PropertyRef Name="idInstructor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Publicaci__idIns__04E4BC85">
+    <End Role="Instructor" Type="Self.Instructor" Multiplicity="0..1" />
+    <End Role="Publicacion" Type="Self.Publicacion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Instructor">
+        <PropertyRef Name="idInstructor" />
+      </Principal>
+      <Dependent Role="Publicacion">
+        <PropertyRef Name="idInstructor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Rutina__idPublic__07C12930">
+    <End Role="Publicacion" Type="Self.Publicacion" Multiplicity="0..1" />
+    <End Role="Rutina" Type="Self.Rutina" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publicacion">
+        <PropertyRef Name="idPublicacion" />
+      </Principal>
+      <Dependent Role="Rutina">
+        <PropertyRef Name="idPublicacion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WELLFITEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Aprendiz" EntityType="Self.Aprendiz" />
+    <EntitySet Name="Ejercicio" EntityType="Self.Ejercicio" />
+    <EntitySet Name="Ficha" EntityType="Self.Ficha" />
+    <EntitySet Name="Ingreso" EntityType="Self.Ingreso" />
+    <EntitySet Name="Instructor" EntityType="Self.Instructor" />
+    <EntitySet Name="Maquina" EntityType="Self.Maquina" />
+    <EntitySet Name="ProgramaFormacion" EntityType="Self.ProgramaFormacion" />
+    <EntitySet Name="Publicacion" EntityType="Self.Publicacion" />
+    <EntitySet Name="Rutina" EntityType="Self.Rutina" />
+    <AssociationSet Name="FK__Aprendiz__numero__5070F446" Association="Self.FK__Aprendiz__numero__5070F446">
+      <End Role="Ficha" EntitySet="Ficha" />
+      <End Role="Aprendiz" EntitySet="Aprendiz" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ingreso__idApren__7F2BE32F" Association="Self.FK__Ingreso__idApren__7F2BE32F">
+      <End Role="Aprendiz" EntitySet="Aprendiz" />
+      <End Role="Ingreso" EntitySet="Ingreso" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ficha__codigoPro__267ABA7A" Association="Self.FK__Ficha__codigoPro__267ABA7A">
+      <End Role="ProgramaFormacion" EntitySet="ProgramaFormacion" />
+      <End Role="Ficha" EntitySet="Ficha" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ingreso__idInstr__7E37BEF6" Association="Self.FK__Ingreso__idInstr__7E37BEF6">
+      <End Role="Instructor" EntitySet="Instructor" />
+      <End Role="Ingreso" EntitySet="Ingreso" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Maquina__idInstr__02084FDA" Association="Self.FK__Maquina__idInstr__02084FDA">
+      <End Role="Instructor" EntitySet="Instructor" />
+      <End Role="Maquina" EntitySet="Maquina" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Publicaci__idIns__04E4BC85" Association="Self.FK__Publicaci__idIns__04E4BC85">
+      <End Role="Instructor" EntitySet="Instructor" />
+      <End Role="Publicacion" EntitySet="Publicacion" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Rutina__idPublic__07C12930" Association="Self.FK__Rutina__idPublic__07C12930">
+      <End Role="Publicacion" EntitySet="Publicacion" />
+      <End Role="Rutina" EntitySet="Rutina" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

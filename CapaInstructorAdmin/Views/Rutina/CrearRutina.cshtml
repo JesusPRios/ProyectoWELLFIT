@@ -1,0 +1,146 @@
+﻿@model CapaTablas.EJERCICIO_has_RUTINA
+
+@{
+    ViewBag.Title = "Crear Rutina";
+    Layout = "~/Views/Shared/ViewAprendiz.cshtml";
+}
+
+<title>Rutinas - WELLFIT</title>
+
+<style>
+    .bold {
+        font-weight: 600;
+        font-size: 17px;
+    }
+    .btn {
+        background-color: #ffa500;
+        color: #000;
+        font-weight: 600;
+        border: none;
+        font-size: 15px !important;
+        padding: 8px;
+        margin-right: 8px;
+        transition: transform .3s ease-in-out;
+        margin-top: 10px;
+    }
+    .card {
+        margin-top: 50px;
+        box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, .4);
+        border:none;
+    }
+    label {
+        display: inline-block;
+        margin-bottom: 0.5rem;
+        font-weight: bold;
+    }
+</style>
+
+<div class="card">
+    <div class="card-header text-black" style="background: #fca311;">
+        <h3 class="mb-1"><b>Información</b></h3>
+    </div>
+    <div class="card-body">
+        <!-- Formulario para crear una nueva rutina -->
+        @using (Html.BeginForm("CrearRutina", "Rutina", FormMethod.Post))
+        {
+            <div class="form-group">
+                @Html.LabelFor(model => model.Rutina.nombreRutina, "Nombre de la rutina", new { @class = "bold"})
+                @Html.TextBoxFor(model => model.Rutina.nombreRutina, new { @class = "form-control", required = "required" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Rutina.Descripcion, "Descripción", new { @class = "bold" })
+                @Html.TextBoxFor(model => model.Rutina.Descripcion, new { @class = "form-control", required = "required" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Rutina.aprendiz.Identificacion, "Identificación", new { @class = "bold" })
+                @Html.TextBoxFor(model => model.Rutina.aprendiz.Identificacion, new { @class = "form-control", required = "required" })
+            </div>
+
+            @*<h3>Agregar Ejercicios</h3>*@
+
+            <div id="ejercicios-container">
+                @for (int i = 0; i < Model.Ejercicios.Count; i++)
+                {
+                    <div class="ejercicio-form">
+                        @Html.HiddenFor(model => model.Ejercicios[i].IdEjercicio)
+                        @Html.HiddenFor(model => model.Ejercicios[i].maquina.numeroMaquina)
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Ejercicios[i].Nombre)
+                            @Html.TextBoxFor(model => model.Ejercicios[i].Nombre, new { @class = "form-control", placeholder = "Nombre del ejercicio", required = "required" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Ejercicios[i].Tipo)
+                            @Html.TextBoxFor(model => model.Ejercicios[i].Tipo, new { @class = "form-control", placeholder = "Tipo del ejercicio", required = "required" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Ejercicios[i].Dificultad)
+                            @Html.DropDownListFor(model => model.Ejercicios[i].Dificultad, ViewBag.Dificultades as List<SelectListItem>, "Seleccione una dificultad", new { @class = "form-control" , required = "required" })
+                        </div>
+                        <div class="form-group">
+                            @Html.Label("Número de Máquina")
+                            <select name="Ejercicios[@i].maquina.numeroMaquina" class="form-control required">
+                                <option value="">Seleccione una máquina</option> <!-- Mensaje de seleccione una máquina -->
+                                @foreach (var maquina in ViewBag.Maquinas)
+                                {
+                                    <option value="@maquina.numeroMaquina">@maquina.numeroMaquina - @maquina.NombreMaquina</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <hr />
+                }
+            </div>
+
+            <button type="button" id="agregar-ejercicio" class="btn">Agregar ejercicios</button>
+            <button type="submit" class="btn">Guardar</button>
+        }
+    </div>
+</div>
+
+@section scripts {
+    <script>
+    $(document).ready(function () {
+        var index = @Model.Ejercicios.Count;
+
+        $("#agregar-ejercicio").click(function () {
+            var html = `
+                <div class="ejercicio-form">
+                    <label>Ejercicio ${index + 1}</label>
+                    <div class="form-group">
+                        <label>Nombre</label>
+                        <input type="text" name="Ejercicios[${index}].Nombre" class="form-control" placeholder="Nombre del ejercicio">
+                    </div>
+                    <div class="form-group">
+                        <label>Tipo</label>
+                        <input type="text" name="Ejercicios[${index}].Tipo" class="form-control" placeholder="Tipo de ejercicio">
+                    </div>
+                    <div class="form-group">
+                        <label>Dificultad</label>
+                        <select name="Ejercicios[${index}].Dificultad" class="form-control">
+                            <option value="">Seleccione una dificultad</option>
+                            @foreach (var dificultad in ViewBag.Dificultades)
+                            {
+                                <option value="@dificultad.Value">@dificultad.Text</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Máquina</label>
+                        <select name="Ejercicios[${index}].maquina.numeroMaquina" class="form-control">
+                            <option value="">Seleccione una máquina</option>
+                            @foreach (var maquina in ViewBag.Maquinas)
+                            {
+                                <option value="@maquina.numeroMaquina">@maquina.numeroMaquina - @maquina.NombreMaquina</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+                <hr />
+            `;
+            $("#ejercicios-container").append(html);
+            index++;
+        });
+    });
+    </script>
+}

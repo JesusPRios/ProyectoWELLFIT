@@ -1,0 +1,6 @@
+﻿@media (min-widht: 700px) {
+    .card-body {
+        height: 700px !important;
+        width: 900px !important;
+    }
+}

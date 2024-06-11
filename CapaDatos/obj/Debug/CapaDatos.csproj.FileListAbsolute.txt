@@ -1,0 +1,467 @@
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll.config
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\WebGrease.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\WebGrease.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Antlr3.Runtime.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\WebGrease.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaAprendiz.dll.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Optimization.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Text.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.ValueTuple.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\OpenTelemetry.Api.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\OpenTelemetry.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\OpenTelemetry.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\OpenTelemetry.Api.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\OpenTelemetry.Api.ProviderBuilderExtensions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml

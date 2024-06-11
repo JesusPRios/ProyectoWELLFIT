@@ -1,0 +1,152 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login - WELLFIT</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/Responsive.css" rel="stylesheet" />
+    <link href="~/Content/CSS.css" rel="stylesheet" />
+    <link href="~/Content/IMG/Icon.png" rel="icon" />
+</head>
+<body>
+    <section class="vh-100 gradient-custom d-flex justify-content-center align-items-center">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                    <div class="card text-white bg-black" style="border-radius: 1rem;">
+                        <div class="card-body p-4 text-center">
+                            <div class="mb-3 border-0 mt-2 pb-3">
+                                <div class="d-flex justify-content-center align-items-center mb-3">
+                                    <img src="@Url.Content("~/Content/IMG/Icon.png")" alt="Descripción de la imagen" style="max-width: 100px;">
+                                </div>
+                                <p class="text-black mb-3 fw-bold">¡Bienvenido a WELLFIT!</p>
+                                <form action="@Url.Action("Index", "Acceso")" method="post">
+                                    <div class="mb-3">
+                                        <label for="TipoUser" class="form-label visually-hidden"><small>Tipo de Usuario</small></label>
+                                        <select id="TipoUser" name="TipoUser" class="form-control form-control-lg">
+                                            <option value="">Seleccionar tipo de usuario</option>
+                                            <option value="Instructor">Instructor</option>
+                                            <option value="Aprendiz">Aprendiz</option>
+                                        </select>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="typeEmailX" class="form-label visually-hidden"><small id="txt">Nombre</small></label>
+                                        <input type="text" id="typeEmailX" name="Name" class="form-control form-control-lg" autocomplete="off" placeholder="Nombre" />
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="typePasswordX" class="form-label visually-hidden"><small>Contraseña</small></label>
+                                        <input type="password" id="typePasswordX" name="contraseña" class="form-control form-control-lg" autocomplete="off" placeholder="Contraseña" />
+                                    </div>
+                                    <p class="fw-medium mt-4 pb-lg-2"><a class="text-black" href="@Url.Action("ReestablecerContraseña", "Acceso")">¿Olvidó su contraseña?</a></p>
+                                    @if (ViewBag.Error != null)
+                                    {
+                                        <div class="form-floating">
+                                            <div class="alert alert-danger" role="alert">
+                                                @ViewBag.Error
+                                            </div>
+                                        </div>
+                                    }
+                                    <button id="btnIniciar" class="btn text-black bg-white btn-lg px-5" type="submit">Iniciar</button>
+                                    <div >
+                                        <p class="text-black">
+                                            ¿No tienes cuenta? <a href="#" class="text-black fw-bold" data-bs-toggle="modal" data-bs-target="#rolModal">Crear cuenta</a>
+                                        </p>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <div class="modal fade" id="rolModal" tabindex="-1" aria-labelledby="rolModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content" style="background-color: #f8f9fa; color: #212529;">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="rolModalLabel">Selecciona tu rol</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="rolForm" method="post">
+                        <div class="mb-4">
+                            <select id="rolSelect" name="Rol" class="form-control form-control-lg" required>
+                                <option value="">Seleccionar rol</option>
+                                <option value="Instructor">Instructor</option>
+                                <option value="Aprendiz">Aprendiz</option>
+                            </select>
+                        </div>
+                        <button type="button" class="btn btn-dark btn-lg px-5" id="continueBtn">Continuar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        #btnIniciar {
+            border-radius: 50px;
+            width: 50%;
+            margin-top: 1.5vh;
+            margin-bottom: 5.5vh;
+            transition: all 0.3s ease-in-out;
+            font-weight: bolder;
+        }
+
+            #btnIniciar:hover {
+                background: #ffcb77 !important;
+            }
+
+        body {
+            background: #212122;
+        }
+
+        .modal-content {
+            border-radius: 10px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .modal-title {
+            font-weight: bold;
+        }
+
+        .btn-dark {
+            background-color: #343a40;
+            border-color: #343a40;
+        }
+
+            .btn-dark:hover {
+                background-color: #23272b;
+                border-color: #23272b;
+            }
+
+    </style>
+    <script src="~/Scripts/bootstrap.bundle.js"></script>
+
+    <script>
+        document.getElementById('continueBtn').addEventListener('click', function () {
+            var rol = document.getElementById('rolSelect').value;
+
+            if (rol === 'Instructor') {
+
+                window.location.href = '@Url.Action("RegistrarAdmin", "Acceso")';
+
+            } else if (rol === 'Aprendiz') {
+
+                window.location.href = '@Url.Action("RegistrarAprendiz", "Acceso")';
+
+            } else {
+
+                alert('Por favor, selecciona un rol.');
+            }
+        });
+    </script>
+</body>
+</html>

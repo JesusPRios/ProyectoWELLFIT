@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WELLFITModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Aprendiz">
+    <Key>
+      <PropertyRef Name="idAprendiz" />
+    </Key>
+    <Property Name="idAprendiz" Type="int" Nullable="false" />
+    <Property Name="numeroFicha" Type="int" />
+    <Property Name="NombreAprendiz" Type="varchar" MaxLength="350" />
+    <Property Name="tipoDocumento" Type="varchar" MaxLength="200" />
+    <Property Name="EstadoAprendiz" Type="varchar" MaxLength="500" />
+    <Property Name="Huella" Type="image" Nullable="false" />
+    <Property Name="UsuarioAprendiz" Type="varchar" MaxLength="450" />
+    <Property Name="ContraseñaAprediz" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Ejercicio">
+    <Key>
+      <PropertyRef Name="idEjercicio" />
+    </Key>
+    <Property Name="idEjercicio" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="450" />
+    <Property Name="Duracion" Type="int" />
+    <Property Name="Dificultad" Type="varchar" MaxLength="180" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6013: La tabla o vista 'WELLFIT.dbo.EJERCICIO_has_RUTINA' no tiene definida una clave principal y no es posible inferir ninguna clave principal válida. Esta tabla o vista se ha excluido. Para usar la entidad, necesitará revisar el esquema, agregar las claves correctas y quitar sus comentarios.
+        <EntityType Name="EJERCICIO_has_RUTINA">
+          <Property Name="idEjercicio" Type="int" />
+          <Property Name="idRutina" Type="int" />
+        </EntityType>-->
+  <EntityType Name="Ficha">
+    <Key>
+      <PropertyRef Name="numeroFicha" />
+    </Key>
+    <Property Name="numeroFicha" Type="int" Nullable="false" />
+    <Property Name="codigoPrograma" Type="int" />
+    <Property Name="fechaInicio" Type="datetime" />
+    <Property Name="fechaFin" Type="datetime" />
+    <Property Name="EstadoFicha" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Ingreso">
+    <Key>
+      <PropertyRef Name="numeroIngreso" />
+    </Key>
+    <Property Name="numeroIngreso" Type="int" Nullable="false" />
+    <Property Name="idInstructor" Type="int" />
+    <Property Name="idAprendiz" Type="int" />
+    <Property Name="fechaIngreso" Type="date" />
+    <Property Name="horaIngreso" Type="time" Precision="7" />
+    <Property Name="fechaSalida" Type="date" />
+    <Property Name="horaSalida" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="Instructor">
+    <Key>
+      <PropertyRef Name="idInstructor" />
+    </Key>
+    <Property Name="idInstructor" Type="int" Nullable="false" />
+    <Property Name="Correo" Type="varchar" MaxLength="400" />
+    <Property Name="NombreInstructor" Type="varchar" MaxLength="250" />
+    <Property Name="ContraseñaInstructor" Type="varchar" MaxLength="350" />
+  </EntityType>
+  <EntityType Name="Maquina">
+    <Key>
+      <PropertyRef Name="numeroMaquina" />
+    </Key>
+    <Property Name="numeroMaquina" Type="int" Nullable="false" />
+    <Property Name="idInstructor" Type="int" />
+    <Property Name="NombreMaquina" Type="varchar" MaxLength="300" />
+    <Property Name="EstadoMaquina" Type="varchar" MaxLength="300" />
+  </EntityType>
+  <EntityType Name="ProgramaFormacion">
+    <Key>
+      <PropertyRef Name="codigoPrograma" />
+    </Key>
+    <Property Name="codigoPrograma" Type="int" Nullable="false" />
+    <Property Name="nombrePrograma" Type="varchar" MaxLength="500" />
+    <Property Name="versionPrograma" Type="varchar" MaxLength="150" />
+    <Property Name="tipoPrograma" Type="varchar" MaxLength="400" />
+  </EntityType>
+  <EntityType Name="Publicacion">
+    <Key>
+      <PropertyRef Name="idPublicacion" />
+    </Key>
+    <Property Name="idPublicacion" Type="int" Nullable="false" />
+    <Property Name="idInstructor" Type="int" />
+    <Property Name="Titulo" Type="varchar" MaxLength="500" />
+    <Property Name="Tipo" Type="varchar" MaxLength="450" />
+    <Property Name="fechaPublicacion" Type="date" />
+  </EntityType>
+  <EntityType Name="Rutina">
+    <Key>
+      <PropertyRef Name="idRutina" />
+    </Key>
+    <Property Name="idRutina" Type="int" Nullable="false" />
+    <Property Name="idPublicacion" Type="int" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="500" />
+    <Property Name="fechaCreacion" Type="date" />
+    <Property Name="nombreRutina" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <Association Name="FK__Aprendiz__numero__5070F446">
+    <End Role="Ficha" Type="Self.Ficha" Multiplicity="0..1" />
+    <End Role="Aprendiz" Type="Self.Aprendiz" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ficha">
+        <PropertyRef Name="numeroFicha" />
+      </Principal>
+      <Dependent Role="Aprendiz">
+        <PropertyRef Name="numeroFicha" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <!--Errores durante la generación:
+error 6004: Una relación hace referencia a la tabla 'WELLFIT.dbo.EJERCICIO_has_RUTINA', pero no se encuentra la tabla.
+        <Association Name="FK__EJERCICIO__idEje__09A971A2" />-->
+  <!--Errores durante la generación:
+error 6004: Una relación hace referencia a la tabla 'WELLFIT.dbo.EJERCICIO_has_RUTINA', pero no se encuentra la tabla.
+        <Association Name="FK__EJERCICIO__idRut__0A9D95DB" />-->
+  <Association Name="FK__Ficha__codigoPro__267ABA7A">
+    <End Role="ProgramaFormacion" Type="Self.ProgramaFormacion" Multiplicity="0..1" />
+    <End Role="Ficha" Type="Self.Ficha" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProgramaFormacion">
+        <PropertyRef Name="codigoPrograma" />
+      </Principal>
+      <Dependent Role="Ficha">
+        <PropertyRef Name="codigoPrograma" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ingreso__idApren__7F2BE32F">
+    <End Role="Aprendiz" Type="Self.Aprendiz" Multiplicity="0..1" />
+    <End Role="Ingreso" Type="Self.Ingreso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Aprendiz">
+        <PropertyRef Name="idAprendiz" />
+      </Principal>
+      <Dependent Role="Ingreso">
+        <PropertyRef Name="idAprendiz" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ingreso__idInstr__7E37BEF6">
+    <End Role="Instructor" Type="Self.Instructor" Multiplicity="0..1" />
+    <End Role="Ingreso" Type="Self.Ingreso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Instructor">
+        <PropertyRef Name="idInstructor" />
+      </Principal>
+      <Dependent Role="Ingreso">
+        <PropertyRef Name="idInstructor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Maquina__idInstr__02084FDA">
+    <End Role="Instructor" Type="Self.Instructor" Multiplicity="0..1" />
+    <End Role="Maquina" Type="Self.Maquina" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Instructor">
+        <PropertyRef Name="idInstructor" />
+      </Principal>
+      <Dependent Role="Maquina">
+        <PropertyRef Name="idInstructor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Publicaci__idIns__04E4BC85">
+    <End Role="Instructor" Type="Self.Instructor" Multiplicity="0..1" />
+    <End Role="Publicacion" Type="Self.Publicacion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Instructor">
+        <PropertyRef Name="idInstructor" />
+      </Principal>
+      <Dependent Role="Publicacion">
+        <PropertyRef Name="idInstructor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Rutina__idPublic__07C12930">
+    <End Role="Publicacion" Type="Self.Publicacion" Multiplicity="0..1" />
+    <End Role="Rutina" Type="Self.Rutina" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publicacion">
+        <PropertyRef Name="idPublicacion" />
+      </Principal>
+      <Dependent Role="Rutina">
+        <PropertyRef Name="idPublicacion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WELLFITModelStoreContainer">
+    <EntitySet Name="Aprendiz" EntityType="Self.Aprendiz" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ejercicio" EntityType="Self.Ejercicio" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ficha" EntityType="Self.Ficha" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ingreso" EntityType="Self.Ingreso" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Instructor" EntityType="Self.Instructor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Maquina" EntityType="Self.Maquina" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProgramaFormacion" EntityType="Self.ProgramaFormacion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Publicacion" EntityType="Self.Publicacion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rutina" EntityType="Self.Rutina" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Aprendiz__numero__5070F446" Association="Self.FK__Aprendiz__numero__5070F446">
+      <End Role="Ficha" EntitySet="Ficha" />
+      <End Role="Aprendiz" EntitySet="Aprendiz" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ficha__codigoPro__267ABA7A" Association="Self.FK__Ficha__codigoPro__267ABA7A">
+      <End Role="ProgramaFormacion" EntitySet="ProgramaFormacion" />
+      <End Role="Ficha" EntitySet="Ficha" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ingreso__idApren__7F2BE32F" Association="Self.FK__Ingreso__idApren__7F2BE32F">
+      <End Role="Aprendiz" EntitySet="Aprendiz" />
+      <End Role="Ingreso" EntitySet="Ingreso" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ingreso__idInstr__7E37BEF6" Association="Self.FK__Ingreso__idInstr__7E37BEF6">
+      <End Role="Instructor" EntitySet="Instructor" />
+      <End Role="Ingreso" EntitySet="Ingreso" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Maquina__idInstr__02084FDA" Association="Self.FK__Maquina__idInstr__02084FDA">
+      <End Role="Instructor" EntitySet="Instructor" />
+      <End Role="Maquina" EntitySet="Maquina" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Publicaci__idIns__04E4BC85" Association="Self.FK__Publicaci__idIns__04E4BC85">
+      <End Role="Instructor" EntitySet="Instructor" />
+      <End Role="Publicacion" EntitySet="Publicacion" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Rutina__idPublic__07C12930" Association="Self.FK__Rutina__idPublic__07C12930">
+      <End Role="Publicacion" EntitySet="Publicacion" />
+      <End Role="Rutina" EntitySet="Rutina" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

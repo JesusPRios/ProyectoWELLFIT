@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Inicio - WELLFIT</title>
+</head>
+
+<style>
+    h1 {
+        margin-top: -60px;
+        font-size: 80px;
+        margin-left: -10px;
+    }
+
+    .IMG {
+        margin-top: -40px !important;
+    }
+
+    .codigo-diario {
+        margin-top: 20px;
+    }
+
+        .codigo-diario h3 {
+            font-size: 20px;
+            font-weight: 800;
+            color: #fca311;
+        }
+    .codigo-diario p {
+        color: #000;
+    }
+</style>
+
+<div class="container mt-5">
+    <div class="row custom-container">
+        <div class="col-md-6 text-content">
+            <h1>MOLDEA TU CUERPO.</h1>
+            <p>Si no estás donde quieres estar, actúa y mantente enfocado. <span class="Negrita">SOUL!</span></p>
+            <div class="codigo-diario">
+                @if (string.IsNullOrEmpty(ViewBag.CodigoDiario))
+                {
+                    using (Html.BeginForm("GenerarCodigoDiarioAction", "Home", FormMethod.Post))
+                    {
+                        <button type="submit" class="btn btn-primary">Generar Código Diario</button>
+                    }
+                }
+                else
+                {
+                    <hr />
+                    <h3>Código Diario:</h3>
+                    <p>@ViewBag.CodigoDiario</p>
+                }
+            </div>
+        </div>
+        <div class="col-md-6">
+            <img class="IMG" src="@Url.Content("~/Content/IMG/Workout_with_barbell-removebg-preview.png")" alt="Imagen de una mujer" />
+        </div>
+    </div>
+</div>

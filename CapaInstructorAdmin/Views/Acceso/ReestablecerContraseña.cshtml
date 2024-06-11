@@ -1,0 +1,92 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Restablecer Contraseña</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="~/Content/IMG/Icon.png">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <section class="vh-100 d-flex align-items-center justify-content-center">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                    <div class="card bg-dark text-white" style="border-radius: 1rem;">
+                        <div class="card-body p-5 text-center">
+
+                            <img src="@Url.Content("~/Content/IMG/Icon.png")" alt="Descripción de la imagen" class="mb-4" />
+
+                            <h1 class="text-black mb-4 fw-bold">Restablecer Contraseña</h1>
+
+                            <form method="post" action="@Url.Action("ReestablecerContraseña", "Acceso")">
+                                <div class="mb-3">
+                                    <input type="text" id="Name" name="Name" class="form-control form-control-lg" placeholder="Nombre" required autocomplete="off" />
+                                </div>
+
+                                <div class="mb-3">
+                                    <input type="email" id="Email" name="Email" class="form-control form-control-lg" placeholder="Correo Electrónico" required autocomplete="off" />
+                                </div>
+
+                                <button id="btnRestablecer" class="btn btn-lg text-black bg-white" type="submit">Restablecer Contraseña</button>
+
+                                <a href="@Url.Action("Index","Acceso")" id="btnVolver" class="btn btn-lg text-white bg-black  mt-3">Volver</a>
+
+                                @if (ViewBag.Message != null)
+                                {
+                                    <div class="alert alert-success mt-3" role="alert">
+                                        @ViewBag.Message
+                                    </div>
+                                }
+                                @if (ViewBag.Error != null)
+                                {
+                                    <div class="alert alert-danger mt-3" role="alert">
+                                        @ViewBag.Error
+                                    </div>
+                                }
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+        #btnRestablecer {
+            border-radius: 50px;
+            width: 100%;
+            margin-top: 35px;
+            transition: all.3s ease-in-out;
+            font-weight: bolder;
+        }
+
+        #btnVolver {
+            border-radius: 50px;
+            width: 100%;
+            margin-top: 35px;
+            transition: all.3s ease-in-out;
+            font-weight: bolder;
+        }
+
+        #btnRestablecer:hover {
+            background: #ffcb77 !important;
+        }
+
+        body {
+            background: #212122;
+        }
+    </style>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.js"></script>
+
+</body>
+</html>

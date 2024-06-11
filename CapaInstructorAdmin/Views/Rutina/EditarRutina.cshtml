@@ -1,0 +1,198 @@
+﻿@model CapaTablas.EJERCICIO_has_RUTINA
+
+@{
+    ViewBag.Title = "Editar Rutina";
+    Layout = "~/Views/Shared/ViewAprendiz.cshtml";
+}
+
+<title>Editar rutina - @Model.Rutina.nombreRutina</title>
+<head>
+    <link rel="stylesheet" href="~/Content/Animacion.css" />
+</head>
+
+<style>
+    h2 {
+        margin-top: 45px;
+        margin-bottom: 25px;
+    }
+
+    .btnV {
+        margin-top: 500px !important;
+        background-color: #ffa500;
+        color: #333;
+        font-weight: 600;
+        border: none;
+        font-size: 14px !important;
+        font-weight: bold;
+    }
+
+    .btnV {
+        color: #333 !important;
+    }
+
+    .btnEditar {
+        background-color: #ffa500;
+        color: #333;
+        font-weight: 600;
+        border: none;
+        font-size: 14px !important;
+        font-weight: bold;
+    }
+
+    .btnEliminar {
+        background-color: #ffa500;
+        color: #333;
+        font-weight: 600 !important;
+        border: none;
+        font-size: 14px !important;
+        font-weight: bold !important;
+    }
+
+    .btnEliminar:hover {
+        color: #333 !important;
+    }
+
+    .btnGuardar {
+        background-color: #ffa500;
+        color: #333;
+        font-weight: 600;
+        border: none;
+        font-size: 14px !important;
+        padding: 6.5px;
+        font-weight:bold;
+    }
+    .card {
+        border: none;
+        border-radius: 8px;
+       
+        box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, .4);
+ 
+    }
+</style>
+
+
+<h2>Editar Rutina - <strong>@Model.Rutina.nombreRutina</strong></h2>
+
+<div class="card">
+    <div class="card-header text-black" style="background: #fca311">
+        <h3 class="mb-1">Información</h3>
+    </div>
+    <div class="card-body">
+
+        <form method="post" action="@Url.Action("Editar", "Rutina")">
+
+            <input type="hidden" name="idRutina" value="@Model.Rutina.idRutina" />
+            <input type="hidden" name="Identificacion" value="@Model.Rutina.aprendiz.Identificacion" />
+
+            <div class="form-group">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="NombreRutina" name="NombreRutina" class="form-control" value="@Model.Rutina.nombreRutina" />
+            </div>
+            <div class="form-group">
+                <label for="descripcion">Descripción:</label>
+                <textarea id="descripcion" name="descripcion" class="form-control">@Model.Rutina.Descripcion</textarea>
+            </div>
+            <div class="form-group">
+                <label for="fechaCreacion">Fecha de creación:</label>
+                <input type="text" id="fechaCreacion" name="fechaCreacion" class="form-control" value="@Model.Rutina.fechaCreacion.ToString("yyyy-MM-dd")" readonly />
+            </div>
+            <button type="submit" class="btnGuardar btn-sm mr-2">Guardar</button>
+
+            <a href="@Url.Action("Details", "Rutina", new { id = Model.Rutina.idRutina, identificacion = Model.Rutina.aprendiz.Identificacion })" class="btnV mr-2 btn-sm">Volver</a>
+
+        </form>
+
+        <hr />
+
+        @if (ViewBag.Error == null)
+        {
+            <div id="loading-overlay">
+                <div id="loading-spinner">
+                    @ViewBag.MostrarCarga
+                </div>
+            </div>
+        }
+
+        <h3>Ejercicios</h3>
+
+        <table class="table" id="ejercicios-table">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Tipo</th>
+                    <th>Dificultad</th>
+                    <th>Máquina</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (var i = 0; i < Model.Ejercicios.Count; i++)
+                {
+                    var ejercicio = Model.Ejercicios[i];
+                    <tr>
+                        <form class="form" method="post" action="@Url.Action("EditarEjercicios", "Rutina")" onsubmit="return confirmarEdicion()">
+                            <input type="hidden" name="idEjercicio" value="@ejercicio.IdEjercicio" />
+                            <input type="hidden" name="idRutina" value="@Model.Rutina.idRutina" />
+                            <input type="hidden" name="identificacion" value="@Model.Rutina.aprendiz.Identificacion" />
+                        <td><input type="text" name="Nombre" value="@ejercicio.Nombre" class="form-control" /></td>
+                        <td><input type="text" name="Tipo" value="@ejercicio.Tipo" class="form-control" /></td>
+                        <td>
+                            <select name="Dificultad" class="form-control">
+                                @foreach (var dificultad in ViewBag.Dificultades)
+                                {
+                                    var selected = (dificultad.Value == ejercicio.Dificultad) ? "selected" : "";
+                                    <option value="@dificultad.Value" @selected>@dificultad.Text</option>
+                                }
+                            </select>
+                        </td>
+                        <td>
+                            <select name="NumeroMaquina" class="form-control">
+                                @foreach (var maquina in ViewBag.Maquinas)
+                                {
+                                    var selected = (maquina.Value == ejercicio.maquina.numeroMaquina.ToString()) ? "selected" : "";
+                                    <option value="@maquina.Value" @selected>@maquina.Text</option>
+                                }
+                            </select>
+                        </td>
+                        <td>
+                            <div class="btn-group" role="group" aria-label="Acciones">
+                                <button type="submit" class="btnEditar btn-block btn-sm" style="margin-right: 5px;">Editar</button>
+                                <a href="@Url.Action("EliminarEjercicioDeRutina", "Rutina", new { idEjercicio = ejercicio.IdEjercicio, idRutina = Model.Rutina.idRutina, identificacion = Model.Rutina.aprendiz.Identificacion })" class="btnEliminar btn-sm" onclick="return confirmarEliminacion()">Eliminar</a>
+                            </div>
+                        </td>
+                        </form>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script>
+    function mostrarCarga() {
+        document.getElementById("loading-overlay").style.display = "block";
+        document.getElementById("card").style.display = "none";
+        setTimeout(ocultarCarga, 3000); // Ocultar la animación después de 3 segundos
+    }
+
+    function ocultarCarga() {
+        document.getElementById("loading-overlay").style.display = "none";
+        document.getElementById("ejercicios-table").style.display = "table"; // Mostrar la tabla de ejercicios después de ocultar la animación
+    }
+
+    function confirmarEdicion() {
+        if (confirm('¿Está seguro que desea editar este ejercicio?')) {
+            mostrarCarga();
+            return true; // Permitir el envío del formulario
+        }
+        return false; // Cancelar el envío del formulario
+    }
+
+    function confirmarEliminacion() {
+        if (confirm('¿Está seguro que desea eliminar este ejercicio?')) {
+            mostrarCarga();
+            return true; // Permitir la navegación al enlace de eliminación
+        }
+        return false; // Cancelar la navegación al enlace de eliminación
+    }
+</script>

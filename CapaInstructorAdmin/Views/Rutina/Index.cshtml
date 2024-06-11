@@ -1,0 +1,135 @@
+﻿@model List<CapaTablas.Rutina>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/ViewAprendiz.cshtml";
+}
+
+<head>
+    <title>Rutinas - WELLFTI</title>
+    <style>
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            margin-top: 60px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Ajuste de ancho mínimo y máximo */
+            gap: 30px; /* Espacio entre las cards */
+            margin-top: 30px;
+        }
+
+        .card {
+            border: none;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, .4);
+            display: grid;
+            grid-template-rows: auto 1fr; /* Asegura que las tarjetas se expandan verticalmente */
+            height: 100%; /* Asegura que las tarjetas tengan altura completa */
+        }
+
+        .card-header {
+            background-color: #fca311;
+            color: #000;
+            padding: 10px;
+            font-weight: bold;
+            border-bottom: 1px solid #007bff;
+            border-radius: 5px 5px 0 0;
+            border: none;
+        }
+
+        .card-body {
+            padding: 15px;
+        }
+
+            .card-body p {
+                margin-bottom: 10px;
+                font-size: 15px !important;
+            }
+
+        .btn {
+            margin-top: 15px;
+            margin-right: 10px; /* Espacio entre botones */
+            color: #000;
+            font-weight: bold;
+            text-decoration: inherit;
+            border-radius: 5px;
+            background-color: #FFA500;
+            border: none;
+            padding: 8px 15px; /* Reducido el padding de los botones */
+        }
+
+            .btn:hover {
+                transform: scale(1.05);
+            }
+
+        .btn-new-rutina {
+            color: black;
+            font-weight: bold;
+            text-decoration: inherit;
+            border-radius: 3px;
+            background-color: #fca311;
+        }
+
+            .btn-new-rutina:hover {
+                color: #000 !important;
+                transform: scale(1.04);
+            }
+
+        .button-container {
+            display: grid;
+            grid-template-columns: repeat(2, auto); /* Crear dos columnas para los botones */
+            grid-gap: 10px; /* Espacio entre los botones */
+            margin-top: 10px; /* Espacio entre la descripción y los botones */
+        }
+
+        .no-rutinas-message {
+            font-size: 12px !important;
+            color: #555;
+            font-weight: 600;
+            width: 900px !important;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+
+<div class="header-container">
+    <h2 style="font-weight: bold;">Rutinas de entrenamiento</h2>
+    <a href="@Url.Action("CrearRutina", "Rutina")" class="btn-new-rutina"><u>Registrar nueva rutina</u></a>
+</div>
+<div class="grid-container">
+    @if (Model != null && Model.Count > 0)
+    {
+        foreach (var rutina in Model)
+        {
+            if (rutina != null)
+            {
+                <div class="card">
+                    <div class="card-header">
+                        @rutina.nombreRutina
+                    </div>
+                    <div class="card-body">
+                        <p>@rutina.Descripcion</p>
+                        <p><strong>Fecha de creación: </strong>@rutina.fechaCreacion.ToShortDateString()</p>
+
+                        <div class="button-container">
+                            <a href="@Url.Action("Details", "Rutina", new { id = rutina.idRutina, identificacion = rutina.aprendiz.Identificacion })" class="btn">Detalles</a>
+                            <a href="@Url.Action("EliminarRutina", "Rutina", new { id = rutina.idRutina, identificacion = rutina.aprendiz.Identificacion })" id="btnDelete" class="btn" onclick="return confirm('¿Estás seguro(a) de eliminar esta rutina?')">Eliminar</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    }
+    else
+    {
+        <div class="no-rutinas-message">
+            <p>No hay rutinas registradas en este momento.</p>
+        </div>
+    }
+</div>

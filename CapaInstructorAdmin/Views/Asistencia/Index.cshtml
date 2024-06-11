@@ -1,0 +1,151 @@
+﻿@model List<CapaTablas.Ingreso>
+@{ ViewBag.Title = "Index";
+                Layout = "~/Views/Shared/ViewAprendiz.cshtml"; }
+
+<link href="~/Content/font-awesome.css" rel="stylesheet" />
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+<title>Ingreso - WELLFIT</title>
+
+<h2 style="display: inline-block;">Listado de asistencia</h2>
+
+<a href="@Url.Action("RegistrarIngreso", "Asistencia")" id="a" class="btn float-right"><u>Registrar ingreso</u></a>
+
+<hr />
+
+<div style="border-radius: 5px; padding: 10px;">
+
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered" style="border-radius: 10px;">
+            <thead>
+                <tr style="color: black;">
+                    <th scope="col">Instructor</th>
+                    <th scope="col">Fecha de ingreso</th>
+                    <th scope="col">Hora de ingreso</th>
+                    <th scope="col">Hora de salida</th>
+                    <th scope="col">Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var ingreso in Model)
+                {
+    <tr>
+        <td>@ingreso.instructor.NombreInstructor</td>
+        <td>@ingreso.fechaIngreso.ToString("dd/MM/yyyy")</td>
+        <td>@ingreso.horaIngresoFormatted</td>
+        <td>@ingreso.horaSalidaFormatted</td>
+        <td>
+            @if (string.IsNullOrEmpty(ingreso.horaSalidaFormatted))
+            {
+<button class="btnSalida" data-numero="@ingreso.numeroIngreso">Registrar salida</button> }
+                else
+                {
+<span>Salida registrada</span>}
+        </td>
+    </tr>}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<style>
+    h2 {
+        font-weight: bold;
+        margin-top: 55px;
+        color: black;
+    }
+
+    .btn:hover {
+        background: #FFA500;
+        border: none;
+    }
+
+    .fas {
+        border: none;
+    }
+
+        .fas:hover {
+            background: none !important;
+        }
+
+    th {
+        text-align: center;
+    }
+
+    td {
+        text-align: center;
+        font-weight: 400;
+    }
+
+    table.table tbody td {
+        color: black !important;
+        border: 1px solid black;
+    }
+
+    table.table thead th {
+        color: black !important;
+        border: 1px solid black;
+    }
+
+    .btn-primary, .btn-danger {
+        background-color: #FFA500;
+        border-color: #FFA500 !important;
+        color: black;
+    }
+
+        .btn-primary:hover {
+            background: #ffcd70 !important;
+        }
+
+        .btn-primary .fas.fa-edit, .btn-danger .fas.fa-trash {
+            color: black;
+        }
+
+    #a {
+        margin-top: 60px;
+        margin-right: 20px;
+        color: black;
+        font-weight: bold;
+        text-decoration: inherit;
+        border-width: 2px;
+        border-style: solid;
+        border-radius: 3px;
+        background-color: #fca311;
+    }
+
+    .btnSalida {
+        color: black;
+        font-weight: 700;
+        border-radius: 3px;
+        background-color: #fca311;
+        border: none;
+        padding: 8px;
+        font-size: 13px !important;
+    }
+
+    .table-striped tbody tr:nth-of-type(odd) {
+        background: none !important;
+    }
+</style>
+
+<script src="~/Scripts/bootstrap.bundle.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function(){
+        $('.btnSalida').click(function(){
+            var numeroIngreso = $(this).data('numero');
+            $.ajax({
+                url: '@Url.Action("RegistrarSalida", "Asistencia")',
+                type: 'POST',
+                data: { numeroIngreso: numeroIngreso },
+                success: function(response) {
+                    alert('Salida registrada exitosamente.');
+                    location.reload(); // Recargar la página para ver los cambios
+                },
+                error: function(xhr, status, error) {
+                    alert('Hubo un error al registrar la salida.');
+                }
+            });
+        });
+    });
+ </script>

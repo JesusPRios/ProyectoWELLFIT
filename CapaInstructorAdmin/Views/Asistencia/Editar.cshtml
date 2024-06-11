@@ -1,0 +1,103 @@
+﻿@model CapaTablas.Ingreso
+@{
+    ViewBag.Title = "Editar";
+    Layout = "~/Views/Shared/ViewAprendiz.cshtml";
+}
+
+<title>Editar asistencia</title>
+<style>
+    h2 {
+        margin-top: 60px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .form-group {
+        width: 350px;
+    }
+
+    .btn {
+        background-color: #fff;
+        color: #000;
+        font-weight: bold;
+        border: none;
+        margin-top: 10px;
+    }
+
+        .btn:hover {
+            background: #cecece !important;
+            color: #000;
+        }
+
+    .btn_volver {
+        background-color: #fff;
+        color: #000;
+        font-weight: bold;
+        border: none;
+        margin-top: 10px;
+        font-size: 16px !important;
+        padding: 8px !important;
+        border-radius: 5px !important;
+        margin-right: 4000px;
+    }
+
+        .btn_volver:hover {
+            background: #cecece !important;
+            color: #000;
+        }
+
+    .nowrap {
+        white-space: nowrap;
+        font-weight: 600;
+    }
+
+    .control-label {
+        margin-left: 0 !important;
+    }
+</style>
+
+<h2>Editar asistencia</h2>
+<hr />
+
+@using (Html.BeginForm("EditarAsistencia", "Asistencia", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.numeroIngreso)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.numeroIngreso, "Número ingreso", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.EditorFor(model => model.numeroIngreso, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.instructor.idInstructor, "ID Instructor", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.DropDownListFor(model => model.instructor.idInstructor, (IEnumerable<SelectListItem>)ViewBag.Instructores, "Seleccione un instructor", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.aprendiz.Identificacion, "ID Aprendiz", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.DropDownListFor(model => model.aprendiz.Identificacion, (IEnumerable<SelectListItem>)ViewBag.Aprendiz, new { @class = "form-control"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.fechaIngreso, "Fecha ingreso", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.EditorFor(model => model.fechaIngreso, new { htmlAttributes = new { @class = "form-control", @type = "date", @Value = Model.fechaIngreso.ToString("yyyy-MM-dd"), @readonly = "readonly" } })
+        @Html.ValidationMessageFor(model => model.fechaIngreso, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.horaIngreso, "Hora ingreso", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.TextBox("horaIngresoFormatted", Model.horaIngresoFormatted, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.horaIngreso, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <div class="d-flex justify-content-between">
+            <input id="input" type="submit" value="Guardar" class="btn mr-2" />
+            <a class="btn_volver" href="@Url.Action("Index", "Asistencia")">Volver</a>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

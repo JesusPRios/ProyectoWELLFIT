@@ -1,0 +1,117 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Registro - WELLFIT</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/CSS.css" rel="stylesheet" />
+    <link href="~/Content/IMG/Icon.png" rel="icon" />
+</head>
+<body>
+
+    <section class="vh-100 gradient-custom d-flex justify-content-center align-items-center">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                    <div class="card text-white bg-black" style="border-radius: 1rem;">
+                        <div class="card-body p-4 text-center">
+
+                            <div class="mb-3 border-0 mt-3 pb-3">
+
+                                <div class="d-flex justify-content-center align-items-center mb-3">
+                                    <img src="@Url.Content("~/Content/IMG/Icon.png")" alt="Descripción de la imagen" style="max-width: 100px;" />
+                                </div>
+
+                                <p class="text-black mb-3 fw-bold">¡Crea tu cuenta en WELLFIT!</p>
+
+                                <form action="@Url.Action("RegistrarInstructor","Acceso")" method="post">
+
+                                    <div class="mb-3">
+                                        <label for="typeNameX" class="form-label visually-hidden"><small>ID</small></label>
+                                        <input type="text" id="typeNameX" name="idInstructor" class="form-control form-control-lg" autocomplete="off" placeholder="Identificación" required />
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="typeNameX" class="form-label visually-hidden"><small>Nombre</small></label>
+                                        <input type="text" id="typeNameX" name="NombreInstructor" class="form-control form-control-lg" autocomplete="off" placeholder="Nombre" required />
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="typePasswordX" class="form-label visually-hidden"><small>Contraseña</small></label>
+                                        <input type="password" id="typePasswordX" name="Contraseña" class="form-control form-control-lg" autocomplete="off" placeholder="Contraseña" required />
+                                    </div>
+
+                                    <button id="btnRegistrar" class="btn text-black bg-white btn-lg px-5" type="submit">Registrar</button>
+
+
+                                    @if (ViewBag.Error != null)
+                                    {
+                                        <div class="alert alert-danger mt-2 mb-2" role="alert">
+                                            @ViewBag.Error
+                                        </div>
+                                    }
+
+
+                                    @if (TempData["Success"] != null)
+                                    {
+                                        <div class="alert alert-success mt-4" role="alert">
+                                            @TempData["Success"]
+                                        </div>
+                                    }
+
+                                    <div>
+                                        <p class="mt-4 text-black">
+                                            ¿Ya tienes cuenta? <a href="@Url.Action("Index","Acceso")" class="text-black fw-bold">Inicia sesión</a>
+                                        </p>
+                                    </div>
+
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+        #btnRegistrar {
+            border-radius: 50px;
+            width: 50%;
+            margin-top: 2vh;
+            margin-bottom: 2vh;
+            transition: all 0.3s ease-in-out;
+            font-weight: bolder;
+        }
+
+            #btnRegistrar:hover {
+                background: #ffcb77 !important;
+            }
+
+        body {
+            background: #212122;
+        }
+
+        .card-body {
+            padding: 2rem !important;
+        }
+
+        .mb-3 {
+            margin-bottom: 1rem !important;
+        }
+
+        .form-control-lg {
+            padding: .5rem 1rem !important;
+            font-size: 1rem !important;
+        }
+    </style>
+
+    <script src="~/Scripts/bootstrap.bundle.js"></script>
+
+</body>
+</html>

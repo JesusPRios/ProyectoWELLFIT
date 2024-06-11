@@ -1,0 +1,89 @@
+﻿@model CapaTablas.Maquina
+@{
+    ViewBag.Title = "Editar Máquina";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Editar Máquina</h2>
+<hr />
+<title>Editar Máquina</title>
+
+<style>
+    h2 {
+        margin-top: 80px;
+        font-weight: bold;
+    }
+
+    .form-group {
+        width: 350px;
+    }
+
+    .btn {
+        background-color: #909090;
+        color: #000;
+        font-weight: bold;
+        border: none;
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+    .btn_volver {
+        background-color: #909090;
+        color: #000;
+        font-weight: bold;
+        border: none;
+        margin-top: 10px;
+        font-size: 15px !important;
+        padding: 8px !important;
+        border-radius: 5px !important;
+        margin-right: 4000px;
+    }
+
+        .btn_volver:hover {
+            background: #cecece !important;
+            color: #000;
+        }
+
+    .btn:hover {
+        background: #cecece !important;
+        color: #000;
+    }
+
+    .nowrap {
+        white-space: nowrap;
+    }
+</style>
+
+@using (Html.BeginForm("EditarMaquina", "Maquinas", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.numeroMaquina)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.numeroMaquina, "Número de máquina", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.EditorFor(model => model.numeroMaquina, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.instructor.idInstructor, "ID Instructor", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.DropDownListFor(model => model.instructor.idInstructor, (IEnumerable<SelectListItem>)ViewBag.Instructores, "Seleccione un instructor", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreMaquina, "Nombre", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.EditorFor(model => model.NombreMaquina, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        @Html.ValidationMessageFor(model => model.NombreMaquina, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.EstadoMaquina, "Estado", htmlAttributes: new { @class = "control-label nowrap" })
+        @Html.DropDownListFor(model => model.EstadoMaquina, (IEnumerable<SelectListItem>)ViewBag.Estados, "Seleccione un estado", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.EstadoMaquina, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <div class="d-flex justify-content-between">
+            <input id="input" type="submit" value="Guardar" class="btn mr-2" />
+            <a class="btn_volver" href="@Url.Action("Index","Maquinas")">Volver</a>
+        </div>
+    </div>
+}

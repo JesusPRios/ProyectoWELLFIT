@@ -1,0 +1,144 @@
+﻿@model List<CapaTablas.Maquina>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/font-awesome.css" rel="stylesheet" />
+<link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+<title>Maquinas - WELLFIT</title>
+
+<h2 style="display: inline-block;">Lista de Máquinas</h2>
+
+<a href="@Url.Action("RegistrarMaquina", "Maquinas")" id="a" class="btn float-right"><u>Registrar máquina</u></a>
+
+<hr />
+
+<div style=" border-radius: 10px; padding: 10px; ">
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered" style="border-radius: 10px;">
+            <thead class="">
+                <tr style="color: black;">
+                    <th scope="col">Número de máquina</th>
+                    <th scope="col">ID Instructor</th>
+                    <th scope="col">Nombre de maquina</th>
+                    <th scope="col">Estado de maquina</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var maquina in Model)
+                {
+                    <tr>
+                        <td>@maquina.numeroMaquina</td>
+                        <td>@maquina.instructor.idInstructor</td>
+                        <td>@maquina.NombreMaquina</td>
+                        <td>@maquina.EstadoMaquina</td>
+                        <td>
+                            <a href="@Url.Action("Editar", "Maquinas", new { numeroMaquina = maquina.numeroMaquina })" class="btn btn-primary btn-sm" style="margin-right: 5px;">
+                                <i class="fas fa-edit"></i>
+                            </a>
+                            <a href="javascript:void(0);" onclick="confirmarEliminacion('@Url.Action("EliminarMaquina", "Maquinas", new { numeroMaquina = maquina.numeroMaquina })')" class="btn btn-danger btn-sm" style="margin-right: 5px;">
+                                <i class="fas fa-trash"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+
+<style>
+    h2 {
+        font-weight: bold;
+        margin-top: 55px;
+        color: black;
+    }
+
+    .btn:hover {
+        background: #FFA500;
+        border: none;
+    }
+
+    th {
+        text-align: center;
+    }
+
+    td {
+        text-align: center;
+    }
+
+    table.table tbody td {
+        color: black !important;
+        border: 1px solid black;
+    }
+
+    table.table thead th {
+        color: black !important;
+        border: 1px solid black;
+    }
+
+    .btn-primary, .btn-danger {
+        background-color: #FFA500;
+        border-color: #FFA500;
+        color: black;
+    }
+
+        .btn-primary:hover {
+            background: #FFA500 !important;
+        }
+
+        .btn-primary .fas.fa-edit, .btn-danger .fas.fa-trash-alt {
+            color: black;
+        }
+
+    #a {
+        margin-top: 60px;
+        margin-right: 20px;
+        color: #000;
+        font-weight: bold;
+        text-decoration: inherit;
+        border-color: #fff;
+        border-width: 2.5px;
+        border-style: solid;
+        border-radius: 5px;
+        background-color: #FFA500;
+    }
+
+    .table-striped tbody tr:nth-of-type(odd) {
+        background: none !important;
+    }
+
+    .fa-trash:before {
+        color: black;
+    }
+
+    #a:hover {
+        transform: scale(1.05);
+    }
+</style>
+
+<script src="~/Scripts/bootstrap.bundle.js"></script>
+
+<script>
+    function confirmarEliminacion(url) {
+        if (confirm('¿Está seguro que desea eliminar esta máquina?')) {
+            window.location.href = url;
+        }
+    }
+</script>

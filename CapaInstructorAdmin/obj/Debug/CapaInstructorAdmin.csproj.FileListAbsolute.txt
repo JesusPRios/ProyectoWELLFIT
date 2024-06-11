@@ -1,0 +1,1363 @@
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\prime\source\repos\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Downloads\CapaInstructorAdmin (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\USER\Downloads\oli+\Proyecto\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\prime\Downloads\CapaInstructorAdmin\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\USER\Documents\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\USER\Documents\PROYECTO\1.1\PROYECTO (1)\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.2\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\USER\Documents\PROYECTO\1.3\PROYECTO 1.3\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaInstructorAdmin.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csc.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\csi.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Console.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\vbc.rsp
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportSource.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.Shared.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\StarkbankEcdsa.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Buffers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Memory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Numerics.Vectors.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.ValueTuple.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebActivatorEx.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\WebGrease.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\stdole.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaDatos.dll.config
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\CapaTablas.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Newtonsoft.Json.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\SendGrid.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Buffers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Memory.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Numerics.Vectors.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.ValueTuple.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Helpers.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Mvc.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Optimization.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.AssemblyReference.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CoreCompileInputs.cache
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.csproj.CopyComplete
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.dll
+C:\Users\prime\OneDrive\Documentos\PROYECTO\UPDATE\1.3\PROYECTO\CapaInstructorAdmin\CapaInstructorAdmin\obj\Debug\CapaInstructorAdmin.pdb

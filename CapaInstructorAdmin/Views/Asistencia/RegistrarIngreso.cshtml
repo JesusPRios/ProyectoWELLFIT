@@ -1,0 +1,121 @@
+﻿@model CapaTablas.Ingreso
+@{
+    ViewBag.Title = "RegistrarIngreso";
+    Layout = "~/Views/Shared/ViewAprendiz.cshtml";
+}
+
+<h2>Registrar mi ingreso</h2>
+<hr />
+<title>Registrar Ingreso</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+<style>
+    h2 {
+        margin-top: 90px;
+        font-weight: 800;
+    }
+
+    #input {
+        margin-top: 20px;
+        background: #ffa500;
+        color: #000;
+        font-weight: bold;
+        border: none;
+    }
+
+    .form-group {
+        width: 400px;
+    }
+
+    .nowrap {
+        white-space: nowrap;
+        font-weight: 600;
+    }
+
+    /* Ocultar el formulario hasta que se valide el código */
+    #formularioIngreso {
+        display: none;
+    }
+</style>
+
+<div class="modal fade" id="modalHuella" tabindex="-1" role="dialog" aria-labelledby="modalHuellaLabel" aria-hidden="true" data-bs-backdrop="static">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalHuellaLabel"><b>Ingrese el código de ingreso</b></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <!-- Contenido del modal -->
+                <div class="form-group">
+                    <label for="codigoIngreso" class="control-label nowrap"><b>Código:</b></label>
+                    <input type="text" id="codigoIngreso" class="form-control" required="required" autocomplete="off"/>
+                    <div id="mensajeCodigo" class="text-danger mt-2"></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <!-- Enlace al índice -->
+                <a href="@Url.Action("Index", "Asistencia")" class="btn btn-secondary">Cancelar</a>
+                <button type="button" class="btn btn-primary" onclick="validarCodigo()">Ingresar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="formularioIngreso">
+    @using (Html.BeginForm("Registrar", "Asistencia", FormMethod.Post))
+    {
+        <div class="form-group">
+            @Html.LabelFor(model => model.instructor.idInstructor, "ID Instructor", htmlAttributes: new { @class = "control-label nowrap" })
+            @Html.DropDownList("idInstructor", (IEnumerable<SelectListItem>)ViewBag.Instructores, "Seleccione un instructor", new { @class = "form-control", required = "required" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.aprendiz.Identificacion, "ID Aprendiz", htmlAttributes: new { @class = "control-label nowrap" })
+            @Html.DropDownList("idAprendiz", (IEnumerable<SelectListItem>)ViewBag.Aprendiz, "Seleccione un aprendiz", new { @class = "form-control", required = "required" })
+        </div>
+
+        <div class="form-group">
+            <input id="input" type="submit" value="Registrar" class="btn btn-primary" />
+        </div>
+    }
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    // Muestra el modal directamente en el HTML al cargar la página
+    $(document).ready(function () {
+        $('#modalHuella').modal('show');
+    });
+
+    // Función para validar el código de ingreso
+    function validarCodigo() {
+        var codigoIngreso = document.getElementById('codigoIngreso').value;
+        var idInstructor = $('#idInstructor').val(); // Tomar el idInstructor seleccionado
+
+        // Llamada AJAX para validar el código de ingreso
+        $.ajax({
+            type: "POST",
+            url: '@Url.Action("ValidarCodigoIngreso", "Asistencia")',
+            data: { idInstructor: idInstructor, codigoIngreso: codigoIngreso },
+            success: function (response) {
+                if (response.success) {
+                    $('#mensajeCodigo').text(response.message).removeClass('text-danger').addClass('text-success');
+                    setTimeout(function () {
+                        $('#modalHuella').modal('hide');
+                        $('#formularioIngreso').show();
+                    }, 1500);
+                } else {
+                    $('#mensajeCodigo').text(response.message).addClass('text-danger');
+                }
+            },
+            error: function () {
+                $('#mensajeCodigo').text("Error en la validación. Por favor, intente de nuevo.").addClass('text-danger');
+            }
+        });
+    }
+</script>

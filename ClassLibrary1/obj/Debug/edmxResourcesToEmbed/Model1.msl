@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WELLFITModelStoreContainer" CdmEntityContainer="WELLFITEntities">
+    <EntitySetMapping Name="Aprendiz">
+      <EntityTypeMapping TypeName="WELLFITModel.Aprendiz">
+        <MappingFragment StoreEntitySet="Aprendiz">
+          <ScalarProperty Name="idAprendiz" ColumnName="idAprendiz" />
+          <ScalarProperty Name="numeroFicha" ColumnName="numeroFicha" />
+          <ScalarProperty Name="NombreAprendiz" ColumnName="NombreAprendiz" />
+          <ScalarProperty Name="tipoDocumento" ColumnName="tipoDocumento" />
+          <ScalarProperty Name="EstadoAprendiz" ColumnName="EstadoAprendiz" />
+          <ScalarProperty Name="Huella" ColumnName="Huella" />
+          <ScalarProperty Name="UsuarioAprendiz" ColumnName="UsuarioAprendiz" />
+          <ScalarProperty Name="ContraseñaAprediz" ColumnName="ContraseñaAprediz" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ejercicio">
+      <EntityTypeMapping TypeName="WELLFITModel.Ejercicio">
+        <MappingFragment StoreEntitySet="Ejercicio">
+          <ScalarProperty Name="idEjercicio" ColumnName="idEjercicio" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Duracion" ColumnName="Duracion" />
+          <ScalarProperty Name="Dificultad" ColumnName="Dificultad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ficha">
+      <EntityTypeMapping TypeName="WELLFITModel.Ficha">
+        <MappingFragment StoreEntitySet="Ficha">
+          <ScalarProperty Name="numeroFicha" ColumnName="numeroFicha" />
+          <ScalarProperty Name="codigoPrograma" ColumnName="codigoPrograma" />
+          <ScalarProperty Name="fechaInicio" ColumnName="fechaInicio" />
+          <ScalarProperty Name="fechaFin" ColumnName="fechaFin" />
+          <ScalarProperty Name="EstadoFicha" ColumnName="EstadoFicha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ingreso">
+      <EntityTypeMapping TypeName="WELLFITModel.Ingreso">
+        <MappingFragment StoreEntitySet="Ingreso">
+          <ScalarProperty Name="numeroIngreso" ColumnName="numeroIngreso" />
+          <ScalarProperty Name="idInstructor" ColumnName="idInstructor" />
+          <ScalarProperty Name="idAprendiz" ColumnName="idAprendiz" />
+          <ScalarProperty Name="fechaIngreso" ColumnName="fechaIngreso" />
+          <ScalarProperty Name="horaIngreso" ColumnName="horaIngreso" />
+          <ScalarProperty Name="fechaSalida" ColumnName="fechaSalida" />
+          <ScalarProperty Name="horaSalida" ColumnName="horaSalida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Instructor">
+      <EntityTypeMapping TypeName="WELLFITModel.Instructor">
+        <MappingFragment StoreEntitySet="Instructor">
+          <ScalarProperty Name="idInstructor" ColumnName="idInstructor" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+          <ScalarProperty Name="NombreInstructor" ColumnName="NombreInstructor" />
+          <ScalarProperty Name="ContraseñaInstructor" ColumnName="ContraseñaInstructor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Maquina">
+      <EntityTypeMapping TypeName="WELLFITModel.Maquina">
+        <MappingFragment StoreEntitySet="Maquina">
+          <ScalarProperty Name="numeroMaquina" ColumnName="numeroMaquina" />
+          <ScalarProperty Name="idInstructor" ColumnName="idInstructor" />
+          <ScalarProperty Name="NombreMaquina" ColumnName="NombreMaquina" />
+          <ScalarProperty Name="EstadoMaquina" ColumnName="EstadoMaquina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProgramaFormacion">
+      <EntityTypeMapping TypeName="WELLFITModel.ProgramaFormacion">
+        <MappingFragment StoreEntitySet="ProgramaFormacion">
+          <ScalarProperty Name="codigoPrograma" ColumnName="codigoPrograma" />
+          <ScalarProperty Name="nombrePrograma" ColumnName="nombrePrograma" />
+          <ScalarProperty Name="versionPrograma" ColumnName="versionPrograma" />
+          <ScalarProperty Name="tipoPrograma" ColumnName="tipoPrograma" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Publicacion">
+      <EntityTypeMapping TypeName="WELLFITModel.Publicacion">
+        <MappingFragment StoreEntitySet="Publicacion">
+          <ScalarProperty Name="idPublicacion" ColumnName="idPublicacion" />
+          <ScalarProperty Name="idInstructor" ColumnName="idInstructor" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="fechaPublicacion" ColumnName="fechaPublicacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rutina">
+      <EntityTypeMapping TypeName="WELLFITModel.Rutina">
+        <MappingFragment StoreEntitySet="Rutina">
+          <ScalarProperty Name="idRutina" ColumnName="idRutina" />
+          <ScalarProperty Name="idPublicacion" ColumnName="idPublicacion" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="fechaCreacion" ColumnName="fechaCreacion" />
+          <ScalarProperty Name="nombreRutina" ColumnName="nombreRutina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
